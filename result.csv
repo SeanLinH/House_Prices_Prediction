@@ -1,0 +1,7 @@
+,Training RMSE,Validation RMSE
+Linear Regression,62349.1,49270.24
+KNN,,
+SVR,,
+Decision Tree,,
+Random Forest,,
+XGBoost,,
